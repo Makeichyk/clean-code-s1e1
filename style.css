@@ -18,9 +18,9 @@
 }
 
 @media (max-width: 768px) {
-.matrix-container {
+  .matrix-container {
     text-align: center;
-}
+  }
 }
 .TODO-list {
   display: block;
